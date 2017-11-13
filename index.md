@@ -2,11 +2,19 @@
 
 These are Giter8 templates I use to quickly generate Scala starter projects.
 
-They include:
+### Projects
+
+* [Akka Persistence with Cassandra](https://github.com/navicore/akka-persistence-cassandra.g8)
+* [Akka Http with Phantom for Cassandra](https://github.com/navicore/akka-http-phantom.g8)
+* [Akka Streams for Eventhubs Consumer](https://github.com/navicore/akka-eventhubs-consumer.g8)
+* [Akka HTTP Hello World!](https://github.com/navicore/akka-hello-world.g8)
+* [Spark Structured Streaming w/ Azure](https://github.com/navicore/spark-structured-streaming-on-azure.g8)
+
+*They include*:
 
 * working sbt build
-* working Dockerfile
-* Travis CI ready
+* working `Dockerfile`
+* `.travis.yml`
 * Coding examples include:
   * Akka HTTP DSL
   * Phantom DSL
@@ -17,14 +25,6 @@ They include:
   * Spark Streaming
   * Kafka Streaming
   * more...
-
-### Projects
-
-* [Akka Persistence with Cassandra](https://github.com/navicore/akka-persistence-cassandra.g8)
-* [Akka Http with Phantom for Cassandra](https://github.com/navicore/akka-http-phantom.g8)
-* [Akka Streams for Eventhubs Consumer](https://github.com/navicore/akka-eventhubs-consumer.g8)
-* [Akka HTTP Hello World!](https://github.com/navicore/akka-hello-world.g8)
-* [Spark Structured Streaming w/ Azure](https://github.com/navicore/spark-structured-streaming-on-azure.g8)
 
 ### Support or Contact
 
