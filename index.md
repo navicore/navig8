@@ -10,12 +10,14 @@ These are Giter8 templates I use to quickly generate Scala starter projects.
 * [Akka HTTP Hello World!](https://github.com/navicore/akka-hello-world.g8)
 * [Spark Structured Streaming w/ Azure](https://github.com/navicore/spark-structured-streaming-on-azure.g8)
 
-*They include*:
+*Each include*:
 
 * working sbt build
 * working `Dockerfile`
+* working `sbt assembly` task to create a dist jar
 * `.travis.yml`
-* Coding examples include:
+
+*Coding examples include:*
   * Akka HTTP DSL
   * Phantom DSL
   * Akka Actor DSL
