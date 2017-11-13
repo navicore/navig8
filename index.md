@@ -1,6 +1,6 @@
-## Navicore's Giter8 Pages
+## Navicore's [G8] Projects
 
-These are Giter8 templates I use to quickly generate Scala starter projects.
+These are [Giter8] templates I use to quickly generate Scala starter projects.
 
 ### The Projects
 
@@ -33,3 +33,7 @@ These are Giter8 templates I use to quickly generate Scala starter projects.
 ### Support or Contact
 
 Having trouble making these work? Contact me on Twitter [@navicore](https://twitter.com/Navicore) and we’ll sort it out.
+
+[g8]: http://www.foundweekends.org/giter8/
+[giter8]: http://www.foundweekends.org/giter8/
+
