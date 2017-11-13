@@ -1,8 +1,6 @@
 ## Navicore's [G8] Projects
 
-These are [Giter8] templates I use to quickly generate Scala starter projects.
-
-### The Projects
+These are [Giter8] templates I use to quickly generate non-trivial Scala starter projects.
 
 * [Akka Persistence with Cassandra](https://github.com/navicore/akka-persistence-cassandra.g8)
 * [Akka Http with Phantom for Cassandra](https://github.com/navicore/akka-http-phantom.g8)
