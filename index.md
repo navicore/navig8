@@ -16,6 +16,7 @@ These are [Giter8] templates I use to quickly generate non-trivial Scala starter
 * working `Dockerfile`
 * working `sbt assembly` task to create a dist jar
 * `.travis.yml`
+* ensime ready
 
 *Coding examples include:*
   * Akka HTTP DSL
