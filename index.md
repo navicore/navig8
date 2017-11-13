@@ -10,9 +10,9 @@ They include:
 
 ### Projects
 
-* https://github.com/navicore/akka-persistence-cassandra.g8
-* https://github.com/navicore/akka-persistence-cassandra.g8
-* https://github.com/navicore/akka-eventhubs-consumer.g8
+* [Akka Persistence with Cassandra](https://github.com/navicore/akka-persistence-cassandra.g8)
+* [Akka Http with Phantom for Cassandra](https://github.com/navicore/akka-http-phantom.g8)
+* [Akka Streams for Eventhubs Consumer](https://github.com/navicore/akka-eventhubs-consumer.g8)
 * https://github.com/navicore/akka-hello-world.g8
 * https://github.com/navicore/spark-structured-streaming-on-azure.g8
 * 
